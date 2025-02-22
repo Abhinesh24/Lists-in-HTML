@@ -8,9 +8,9 @@
       <h1>Understanding lists in HTML</h1>
       <h2>Ordered list(Numbered list)</h2>
       <ol>
-          <ol>Item one</ol>
-          <ol>Item two</ol>
-          <ol>Item three</ol>
+          <li>Item one</ol>
+          <li>Item two</ol>
+          <li>Item three</ol>
       </ol>
       <h2>Unordered list(Bulleted list)</h2>
       <ul>
